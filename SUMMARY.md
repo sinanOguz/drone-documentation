@@ -21,5 +21,12 @@
     * [Companion Computer Software](getting-started-with-iridia-drone/required-software/companion-computer-software.md)
     * [QGroundControl Software](getting-started-with-iridia-drone/required-software/qgroundcontrol-software.md)
     * [MNS-Supervisior Software](getting-started-with-iridia-drone/required-software/mns-supervisior-software.md)
-* [Configuration](configuration.md)
+* [Configuration](configuration/README.md)
+  * [Installing the PX4 Firmware](configuration/installing-the-px4-firmware.md)
+  * [Airframe Selection](configuration/airframe-selection.md)
+  * [Sensor Calibration](configuration/sensor-calibration.md)
+  * [RC Setup](configuration/rc-setup.md)
+  * [Flight Modes](configuration/flight-modes.md)
+  * [Power Setup](configuration/power-setup.md)
+  * [Video Guide](configuration/video-guide.md)
 

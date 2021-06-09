@@ -39,5 +39,5 @@
 
 ## Before Running an MNS Experiment
 
-* [Getting Started with an MNS Experiment](before-running-an-mns-experiment/untitled.md)
+* [Getting Ready for an MNS Experiment](before-running-an-mns-experiment/untitled.md)
 

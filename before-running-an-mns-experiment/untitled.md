@@ -1,2 +1,2 @@
-# Getting Started with an MNS Experiment
+# Getting Ready for an MNS Experiment
 

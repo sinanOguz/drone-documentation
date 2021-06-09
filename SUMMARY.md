@@ -25,6 +25,7 @@
     * [QGroundControl Software](user-guide/getting-started-with-iridia-drone/required-software/qgroundcontrol-software.md)
     * [MNS-Supervisior Software](user-guide/getting-started-with-iridia-drone/required-software/mns-supervisior-software.md)
 * [Configuration](user-guide/configuration/README.md)
+  * [Charging the Batteries](user-guide/configuration/charging-the-batteries.md)
   * [Installing the PX4 Firmware](user-guide/configuration/installing-the-px4-firmware.md)
   * [Airframe Selection](user-guide/configuration/airframe-selection.md)
   * [PX4 Parameters](user-guide/configuration/px4-parameters.md)
@@ -39,5 +40,14 @@
 
 ## Before Running an MNS Experiment
 
-* [Getting Ready for an MNS Experiment](before-running-an-mns-experiment/untitled.md)
+* [Getting Ready the Drones for an MNS Experiment](before-running-an-mns-experiment/untitled/README.md)
+  * [Things To Do](before-running-an-mns-experiment/untitled/things-to-do.md)
+
+## Troubleshooting
+
+* [The PCB](troubleshooting/the-pcb.md)
+* [Pixhawk](troubleshooting/pixhawk.md)
+* [PX4](troubleshooting/px4.md)
+* [Optical Flow Sensor](troubleshooting/optical-flow-sensor.md)
+* [QGroundControl](troubleshooting/qgroundcontrol.md)
 

@@ -5,7 +5,7 @@ description: >-
   good location and bring someone with experience.
 ---
 
-# Getting started with IRIDIA-Drone
+# Getting Started with IRIDIA-Drone
 
 This section provides information to build and fly the IRIDIA-Drone.
 

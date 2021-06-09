@@ -4,7 +4,7 @@
 
 ## User Guide
 
-* [Getting started with IRIDIA-Drone](user-guide/getting-started-with-iridia-drone/README.md)
+* [Getting Started with IRIDIA-Drone](user-guide/getting-started-with-iridia-drone/README.md)
   * [The Component List](user-guide/getting-started-with-iridia-drone/the-component-list/README.md)
     * [Connection Diagrams](user-guide/getting-started-with-iridia-drone/the-component-list/connection-diagrams.md)
     * [Required Hardware](user-guide/getting-started-with-iridia-drone/the-component-list/required-hardware/README.md)
@@ -27,17 +27,17 @@
 * [Configuration](user-guide/configuration/README.md)
   * [Installing the PX4 Firmware](user-guide/configuration/installing-the-px4-firmware.md)
   * [Airframe Selection](user-guide/configuration/airframe-selection.md)
+  * [PX4 Parameters](user-guide/configuration/px4-parameters.md)
   * [Sensor Calibration](user-guide/configuration/sensor-calibration.md)
   * [RC Setup](user-guide/configuration/rc-setup.md)
   * [Wireless Telemetry Radio Setup](user-guide/configuration/wireless-telemetry-radio-setup.md)
   * [Flight Modes](user-guide/configuration/flight-modes.md)
   * [Power Setup](user-guide/configuration/power-setup.md)
-  * [PX4 Parameters](user-guide/configuration/px4-parameters.md)
   * [Video Guide](user-guide/configuration/video-guide.md)
 * [Working with the PCB](user-guide/working-with-the-pcb.md)
 * [Working with the Companion Computer](user-guide/working-with-the-companion-computer.md)
 
 ## Before Running an MNS Experiment
 
-* [Untitled](before-running-an-mns-experiment/untitled.md)
+* [Getting Started with an MNS Experiment](before-running-an-mns-experiment/untitled.md)
 

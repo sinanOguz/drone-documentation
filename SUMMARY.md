@@ -4,14 +4,6 @@
 
 ## User Guide
 
-* [Configuration](user-guide/configuration/README.md)
-  * [Installing the PX4 Firmware](user-guide/configuration/installing-the-px4-firmware.md)
-  * [Airframe Selection](user-guide/configuration/airframe-selection.md)
-  * [Sensor Calibration](user-guide/configuration/sensor-calibration.md)
-  * [RC Setup](user-guide/configuration/rc-setup.md)
-  * [Flight Modes](user-guide/configuration/flight-modes.md)
-  * [Power Setup](user-guide/configuration/power-setup.md)
-  * [Video Guide](user-guide/configuration/video-guide.md)
 * [Getting started with IRIDIA-Drone](user-guide/getting-started-with-iridia-drone/README.md)
   * [The Component List](user-guide/getting-started-with-iridia-drone/the-component-list/README.md)
     * [Connection Diagrams](user-guide/getting-started-with-iridia-drone/the-component-list/connection-diagrams.md)
@@ -32,6 +24,14 @@
     * [Companion Computer Software](user-guide/getting-started-with-iridia-drone/required-software/companion-computer-software.md)
     * [QGroundControl Software](user-guide/getting-started-with-iridia-drone/required-software/qgroundcontrol-software.md)
     * [MNS-Supervisior Software](user-guide/getting-started-with-iridia-drone/required-software/mns-supervisior-software.md)
+* [Configuration](user-guide/configuration/README.md)
+  * [Installing the PX4 Firmware](user-guide/configuration/installing-the-px4-firmware.md)
+  * [Airframe Selection](user-guide/configuration/airframe-selection.md)
+  * [Sensor Calibration](user-guide/configuration/sensor-calibration.md)
+  * [RC Setup](user-guide/configuration/rc-setup.md)
+  * [Flight Modes](user-guide/configuration/flight-modes.md)
+  * [Power Setup](user-guide/configuration/power-setup.md)
+  * [Video Guide](user-guide/configuration/video-guide.md)
 
 ## Before Running an MNS Experiment
 

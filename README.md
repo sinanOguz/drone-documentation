@@ -24,7 +24,7 @@ The IRIDIA-Drone platform contains a pre-configured image for the Up Core board 
  The design of the PCB and the source code of all software related to drones are open and available on GitHub.
 {% endhint %}
 
-**USER GUIDE** shows how to update your firmware and configure it with settings appropriate for your drone. This section also explains how to calibrate the main sensors \(compass, gyro/IMU, airspeed etc.\), and set up your remote control and safety features.
+**USER GUIDE** shows how to update your firmware and configure it with settings appropriate for your drone. This section also explains how to calibrate the main sensors \(compass, gyro/IMU, etc.\) and set up your remote control and safety features.
 
 If you feel ready to fly multiple drones, first visit the **BEFORE RUNNING AN MNS EXPERIMENT** section.  
 

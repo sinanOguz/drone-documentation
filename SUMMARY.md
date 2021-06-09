@@ -26,6 +26,7 @@
     * [MNS-Supervisior Software](user-guide/getting-started-with-iridia-drone/required-software/mns-supervisior-software.md)
 * [Configuration](user-guide/configuration/README.md)
   * [Charging the Batteries](user-guide/configuration/charging-the-batteries.md)
+  * [Connecting the Pixhawk to QGroundControl](user-guide/configuration/connecting-the-pixhawk-to-qgroundcontrol.md)
   * [Installing the PX4 Firmware](user-guide/configuration/installing-the-px4-firmware.md)
   * [Airframe Selection](user-guide/configuration/airframe-selection.md)
   * [PX4 Parameters](user-guide/configuration/px4-parameters.md)
@@ -34,9 +35,11 @@
   * [Wireless Telemetry Radio Setup](user-guide/configuration/wireless-telemetry-radio-setup.md)
   * [Flight Modes](user-guide/configuration/flight-modes.md)
   * [Power Setup](user-guide/configuration/power-setup.md)
+  * [PX4Flow Setup](user-guide/configuration/px4flow-setup.md)
   * [Video Guide](user-guide/configuration/video-guide.md)
 * [Working with the PCB](user-guide/working-with-the-pcb.md)
-* [Working with the Companion Computer](user-guide/working-with-the-companion-computer.md)
+* [Working with the Companion Computer](user-guide/working-with-the-companion-computer/README.md)
+  * [OFFBOARD Flight](user-guide/working-with-the-companion-computer/offboard-flight.md)
 
 ## Before Running an MNS Experiment
 
@@ -47,7 +50,8 @@
 
 * [The PCB](troubleshooting/the-pcb.md)
 * [Pixhawk](troubleshooting/pixhawk.md)
-* [PX4](troubleshooting/px4.md)
+* [PX4](troubleshooting/px4/README.md)
+  * [Sensor Data Sanity Check](troubleshooting/px4/sensor-data-sanity-check.md)
 * [Optical Flow Sensor](troubleshooting/optical-flow-sensor.md)
 * [QGroundControl](troubleshooting/qgroundcontrol.md)
 

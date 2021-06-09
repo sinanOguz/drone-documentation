@@ -5,7 +5,7 @@ Here we give a guideline for a multi-drone MNS experiment.  There are important 
 
 If it is **the first experiment** of the day do the followings
 
-* * [Charge the batteries](../../user-guide/configuration/charging-the-batteries.md)
+* [Charge the batteries](../../user-guide/configuration/charging-the-batteries.md)
 
 ## Charge the Batteries <a id="batteries"></a>
 

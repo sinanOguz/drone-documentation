@@ -1,13 +1,13 @@
 # Configuration
 
+{% hint style="info" %}
+The official guide available at [https://docs.qgroundcontrol.com/master/en/SetupView/Firmware.html](https://docs.px4.io/master/en/config/)
+{% endhint %}
+
 ## Installing the PX4 Firmware
 
 {% hint style="info" %}
-We recommend using the latest version of PX4 for a more stable flight. The current version The current is **v1.12.0-Beta 5**.
-{% endhint %}
-
-{% hint style="info" %}
-The official guide available at [https://docs.qgroundcontrol.com/master/en/SetupView/Firmware.html](https://docs.qgroundcontrol.com/master/en/SetupView/Firmware.html)
+We recommend using the latest version of PX4 for a more stable flight. The current version is **v1.12.0-Beta 5**.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -89,6 +89,12 @@ To perform the sensor calibration, go to the **Sensors** page.
 ![](.gitbook/assets/12.png)
 
 ### Level Horizon
+
+## RC Setup
+
+## Flight Modes
+
+## Power Setup
 
 ## Video Guide
 

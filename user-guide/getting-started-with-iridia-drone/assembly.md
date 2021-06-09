@@ -9,7 +9,7 @@ You should have at least the following items to proceed through this getting-sta
 * Motors/ESCs
 * Pixhawk 4 and  its power management board
 * RC Receiver
-* Wireless telemetry link 
+* Wireless telemetry radio 
 * The PCB
 * Fully charged battery
 

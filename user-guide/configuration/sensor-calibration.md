@@ -1,5 +1,9 @@
 # Sensor Calibration
 
+{% hint style="info" %}
+To calibrate the sensor easily, you can use wireless telemetry radio. So, you can complete the calibration process without using a USB cable. To use telemetry radio check this [page](wireless-telemetry-radio-setup.md).
+{% endhint %}
+
 To perform the sensor calibration, go to the **Vehicle Setup** page and click the **Sensors** menu.
 
 ## Compass

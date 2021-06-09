@@ -29,9 +29,13 @@
   * [Airframe Selection](user-guide/configuration/airframe-selection.md)
   * [Sensor Calibration](user-guide/configuration/sensor-calibration.md)
   * [RC Setup](user-guide/configuration/rc-setup.md)
+  * [Wireless Telemetry Radio Setup](user-guide/configuration/wireless-telemetry-radio-setup.md)
   * [Flight Modes](user-guide/configuration/flight-modes.md)
   * [Power Setup](user-guide/configuration/power-setup.md)
+  * [PX4 Parameters](user-guide/configuration/px4-parameters.md)
   * [Video Guide](user-guide/configuration/video-guide.md)
+* [Working with the PCB](user-guide/working-with-the-pcb.md)
+* [Working with the Companion Computer](user-guide/working-with-the-companion-computer.md)
 
 ## Before Running an MNS Experiment
 
